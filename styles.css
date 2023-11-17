@@ -1,0 +1,175 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Quicksand;
+    color: lightcoral;
+    
+}
+
+.content-margin {
+    max-width: 1300px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    padding: 0px 40px;
+    position: relative;
+    clear: both;
+    background-color: aliceblue;
+}
+
+.navbar-box {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    padding-top: 40px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.navbar, a {
+    display: flex;
+    padding-left: 20px;
+}
+
+.home-box {
+    display: flex;
+    padding: 100px 0px 200px 0px;
+}
+
+.home-content {
+    width: 50%;
+    padding-top: 100px;
+}
+
+.small-bio {
+    max-width: 400px;
+}
+
+.home-image {
+    width: 50%
+}
+
+.hi {
+    font-size: 30px;
+    padding-bottom: 8px;
+}
+
+.sally-betz {
+    font-size: 70px;
+    padding-bottom: 30px;
+}
+
+.email-dev {
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+.sal-pic {
+    display: block;
+    margin: auto;
+    
+    width: 400px;
+    
+}
+
+.social-links {
+    display: flex;
+    font-size: 30px;
+    padding: 20px 0;
+}
+
+.cv {
+    font-size: 15px;
+}
+
+.section-title {
+    font-weight: 1000;
+}
+
+.skills-box {
+padding-bottom: 80px;
+
+}
+
+.my-skill {
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+
+
+.logos {
+    display: flex;
+    justify-content: center;
+}
+
+.css-html-box, .javascript-photohop-box {
+
+}
+
+.logo-box {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 100px;
+}
+
+.logo-image {
+    width: 50%;
+}
+
+.logo-text {
+    font-size: 20px;
+    padding-top: 10px;
+    font-weight: 1000;
+}
+
+.about-box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.sal-in-tree {
+    max-width: 500px;
+    border-radius: 50px;
+}
+
+.know-me-box {
+
+max-width: 500px;
+}
+
+.about-sally, .know-me {
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.know-me {
+font-size: 40px;
+
+}
+
+.big-bio {
+    
+}
+
+.space {
+    font-size: 200px;
+    text-align: center;
+    margin: 200px;
+}
+
+.my-projects {
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.projects-box {
+    padding-top: 100px;
+}
